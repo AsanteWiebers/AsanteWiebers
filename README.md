@@ -1,5 +1,10 @@
-### Hi there 👋
+Hello :bowtie:
 
+- 🔭 I’m currently working on building interactive JavaScript Websites/Applications
+- 🌱 I’m currently sharpening my Javascript skills.
+- ⚡ Fun fact: Programming can be quite addictive
+
+Languages and Tools: 
 <!--
 **AsanteWiebers/AsanteWiebers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
