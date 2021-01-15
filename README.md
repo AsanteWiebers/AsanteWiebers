@@ -3,7 +3,7 @@ Hello there :bowtie:
 - 🔭 I’m currently working on building interactive JavaScript Websites/Applications
 - 🌱 I’m currently learning SASS, React and Figma
 
-- :exclamation: Programming can be quite addictive.
+- :white_check_mark:  Programming can be quite addictive.
 
 Have a nice day.
 
