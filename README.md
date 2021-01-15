@@ -2,7 +2,7 @@ Hello :bowtie:
 
 - 🔭 I’m currently working on building interactive JavaScript Websites/Applications
 - 🌱 I’m currently sharpening my Javascript skills.
-- ⚡ Fun fact: Programming can be quite addictive
+:exclamation: Programming can be quite addictive
 
 Languages and Tools: 
 <!--
