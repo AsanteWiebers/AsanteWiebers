@@ -1,9 +1,11 @@
-Hello :bowtie:
+Hello there :bowtie:
 
 - 🔭 I’m currently working on building interactive JavaScript Websites/Applications
-- 🌱 I’m currently sharpening my Javascript skills.
+- 🌱 I’m currently learning SASS, React and Figma
 
-:exclamation: Programming can be quite addictive
+:exclamation: Programming can be quite addictive.
+
+Have a nice day.
 
 
 
