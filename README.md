@@ -5,7 +5,7 @@ Hello there :bowtie:
 
 - :white_check_mark:  Programming can be quite addictive.
 
-Have a nice day.
+Let's code 
 
 
 
