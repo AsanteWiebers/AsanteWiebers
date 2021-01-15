@@ -6,7 +6,6 @@ Hello :bowtie:
 :exclamation: Programming can be quite addictive
 
 
-I like to watch ⚽ :soccer:
 
 <!--
 **AsanteWiebers/AsanteWiebers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
