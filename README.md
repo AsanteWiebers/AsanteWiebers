@@ -1,6 +1,6 @@
 Hello everybody :bowtie:
 
-- 🔭 I’m currently working on building interactive websites/applications using Javascript.
+- 🔭 I am working on building interactive websites/applications using Javascript.
 - 🌱 I am learning Sass, React and sharpening my Javascript skills.
 
 - :white_check_mark:  Programming can be quite addictive.
