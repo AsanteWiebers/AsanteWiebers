@@ -5,7 +5,7 @@ Hello everybody :bowtie:
 
 - :white_check_mark:  Programming can be quite addictive.
 
-Let's code :coffee:
+Let's code  :coffee:
 
 
 
