@@ -1,7 +1,7 @@
 Hello there :bowtie:
 
 - 🔭 I’m currently working on building interactive JavaScript Websites/Applications
-- 🌱 I’m currently learning Sass, Figma and Javascript
+- 🌱 I’m currently learning Sass, Figma, React and Javascript
 
 - :white_check_mark:  Programming can be quite addictive.
 
