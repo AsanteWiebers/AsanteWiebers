@@ -1,6 +1,6 @@
 Hello everybody :bowtie:
 
-- 🔭 I am working on building interactive websites/applications using HTML/SCSS/Javascript.
+- 🔭 I am working on building interactive websites/applications using HTML/SCSS/Javascript/React.
 - 🌱 Looking to improve my Front-end skill set
 
 - :white_check_mark:  Programming can be quite addictive.
